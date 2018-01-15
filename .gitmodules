@@ -1,0 +1,3 @@
+[submodule "ENet"]
+	path = ENet
+	url = git@github.com:LiquidBit-llc/enet.git
